@@ -1,2 +1,2 @@
 # java-dio
-Repository for Java labs of DIO`s courses
+ A repository for all java challenges of DIO courses
